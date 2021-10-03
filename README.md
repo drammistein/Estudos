@@ -1,2 +1,2 @@
 # Estudos
-Estudos da minha trajetória na programação
+Estudos na Linguagem de Programação PHP.
